@@ -31,12 +31,12 @@
 	"portfolios":{
 		"title":"Portfolio Heading",
 		"portfolioimg":[
-			"http://placehold.it/700x450",
-			"http://placehold.it/700x450",
-			"http://placehold.it/700x450",
-			"http://placehold.it/700x450",
-			"http://placehold.it/700x450",
-			"http://placehold.it/700x450"
+			"https://placehold.it/700x450",
+			"https://placehold.it/700x450",
+			"https://placehold.it/700x450",
+			"https://placehold.it/700x450",
+			"https://placehold.it/700x450",
+			"https://placehold.it/700x450"
 		]
 	},
 	"features":{
@@ -51,7 +51,7 @@
 			"17 HTML pages"
 		],
 		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.",
-		"featuresimg":"http://placehold.it/700x450"	
+		"featuresimg":"https://placehold.it/700x450"	
 	},
 	"calltoaction":{
 		"action": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, expedita, saepe, vero rerum deleniti beatae veniam harum neque nemo praesentium cum alias asperiores commodi.",

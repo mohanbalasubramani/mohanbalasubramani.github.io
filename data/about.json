@@ -10,13 +10,13 @@
 			"Lorem ipsum dolor sit amet. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiatsdf.",
 			"Lorem ipsum dolor sit amet. Sed voluptate nihil eum consectetur similique? Consectetusdmnfbsdfr."
 		],
-		"titleimage" : "http://placehold.it/750x450"
+		"titleimage" : "https://placehold.it/750x450"
 	},
 	"team" : {
 		"title":"Our Team",
 		"members":[
 				{
-					"thumb":"http://placehold.it/750x450",
+					"thumb":"https://placehold.it/750x450",
 					"name":"Mohan",
 					"role":"Developer",
 					"description":"Lorem ipsum dolor sit amet. Sed voluptate nihil eum consectetur similique? Consectetur.",
@@ -27,7 +27,7 @@
 					}
 				},
 				{
-					"thumb":"http://placehold.it/750x450",
+					"thumb":"https://placehold.it/750x450",
 					"name":"Mohan",
 					"role":"Developer",
 					"description":"Lorem ipsum dolor sit amet. Sed voluptate nihil eum consectetur similique? Consectetur.",
@@ -38,7 +38,7 @@
 					}
 				},
 				{
-					"thumb":"http://placehold.it/750x450",
+					"thumb":"https://placehold.it/750x450",
 					"name":"Mohan",
 					"role":"Developer",
 					"description":"Lorem ipsum dolor sit amet. Sed voluptate nihil eum consectetur similique? Consectetur.",
@@ -49,7 +49,7 @@
 					}
 				},
 				{
-					"thumb":"http://placehold.it/750x450",
+					"thumb":"https://placehold.it/750x450",
 					"name":"Mohan",
 					"role":"Developer",
 					"description":"Lorem ipsum dolor sit amet. Sed voluptate nihil eum consectetur similique? Consectetur.",
@@ -60,7 +60,7 @@
 					}
 				},
 				{
-					"thumb":"http://placehold.it/750x450",
+					"thumb":"https://placehold.it/750x450",
 					"name":"Mohan",
 					"role":"Developer",
 					"description":"Lorem ipsum dolor sit amet. Sed voluptate nihil eum consectetur similique? Consectetur.",
@@ -71,7 +71,7 @@
 					}
 				},
 				{
-					"thumb":"http://placehold.it/750x450",
+					"thumb":"https://placehold.it/750x450",
 					"name":"Mohan",
 					"role":"Developer",
 					"description":"Lorem ipsum dolor sit amet. Sed voluptate nihil eum consectetur similique? Consectetur.",
@@ -86,12 +86,12 @@
 	"clients" : {
 		"title": "Our Customers",
 		"clientimages": [
-			"http://placehold.it/500x301",
-			"http://placehold.it/500x301",
-			"http://placehold.it/500x301",
-			"http://placehold.it/500x301",
-			"http://placehold.it/500x301",
-			"http://placehold.it/500x301"
+			"https://placehold.it/500x301",
+			"https://placehold.it/500x301",
+			"https://placehold.it/500x301",
+			"https://placehold.it/500x301",
+			"https://placehold.it/500x301",
+			"https://placehold.it/500x301"
 		]
 	}
 
